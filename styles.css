@@ -1,0 +1,22 @@
+html {
+	background-color: gray;
+}
+
+body {
+	background: white;
+	width: 50%;
+	margin: 10px auto;
+	padding: 10px;
+
+}
+
+table {
+	border-collapse: collapse;
+	border: 2px black solid;
+	font: 12px sans-serif;
+}
+
+td {
+	border: 1px black solid;
+	padding: 5px;
+}
