@@ -1,8 +1,8 @@
-Vegetable, Length, Color
+Vegetable, Length("inches"), Color
 Potato,6, White
 Corn,4, Yellow
 Carrot,6, Orange
 Gym Socks,9, Gray
-Roootabeaagaa,13, Neon Blue
+Roootabeaagaa,13, Burgundy
 શું થઈ રહ્યું છે?, પંદર, કેસર રંગ
-Broccoli,8, Silver
+Broccoli,8, Green
