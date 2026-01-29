@@ -2,7 +2,7 @@
 
 This repository contains code for a really bad error-ridden simple website about vegetables:
 
-https://code4policy.github.io/bad-veggies-website-section-b/
+https://data4news.com/bad-veggies/
 
 This repo was built to help you learn about **Git** and **GitHub**. You may learn something about how websites are built along the way too!
 
