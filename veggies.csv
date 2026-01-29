@@ -1,4 +1,4 @@
-Vegetable, Length, Color
+Vegetable, Length("inches"), Color
 Potatooo,6, White
 Corn,4, Yellow
 Pineapple,9, Yellow
